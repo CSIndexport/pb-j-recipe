@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(169, 243, 209);
+}
+body {
+  background-color: rgb(188, 233, 106);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 12px solid rgb(32, 154, 224);
+  width: 800px;
+  margin: auto;
+  padding: 50px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
+/*
+h1,
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+*/
+
+a {
+  color: rgb(0, 16, 245);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
